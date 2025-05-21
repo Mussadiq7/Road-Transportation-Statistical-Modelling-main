@@ -1,15 +1,15 @@
 ![Road](https://i.pinimg.com/originals/45/74/cc/4574cc67db2ff828c09935ca5d8fb3e0.gif)
 
-# _Road Transportation Analysis & Statistical Modelling_
+# Road Transportation Analysis & Statistical Modelling
 This project is an end-to-end Data science project where you can find all the core steps required to satisfy a data science objective. Steps involving Data Extraction, Data Cleaning, Exploratory Data Analysis, Modelling and the Variable selection methods to evaluate how good our model is before and after selecting best features from the raw data using Exclusive Variable Selection algorithm. Statistical analysis has also been performed in order to clean the data and extract some insights which helped us to make a better model.
 
-# _**Base Paper**_
+# Base Paper
 
 + https://www.researchgate.net/publication/315869006_Machine_Learning_in_Transportation_Data_Analytics
 + https://www.sciencedirect.com/science/article/pii/S235214651830262X
 + https://www.researchgate.net/publication/338336513_Transportation_network_model_and_Network_analysis_of_road_networks
 
-# _**Algorithm Description**_
+# Algorithm Description
 
 **Random Forest Classifier:**
 Random Forest Classifier is an ensemble algorithm which works with multiple algorithms parallelly. This is a supervised algorithm and it can be used with both classification and regression problems. The output of the new data is estimated either by using majority voting or average voting technique. Since the algorithm works with bagging technique, multiple decision trees are used to provide the output for the specific input. This is a key difference between decision trees and random forests. While decision trees consider all the possible feature splits, random forests only select a subset of those features. Random forest works best with large datasets and high dimensional.

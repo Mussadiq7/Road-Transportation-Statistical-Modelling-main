@@ -1,6 +1,6 @@
 ![Road](https://i.pinimg.com/originals/45/74/cc/4574cc67db2ff828c09935ca5d8fb3e0.gif)
 
-# _**Road Transportation Analysis & Statistical Modelling**_
+# _Road Transportation Analysis & Statistical Modelling_
 This project is an end-to-end Data science project where you can find all the core steps required to satisfy a data science objective. Steps involving Data Extraction, Data Cleaning, Exploratory Data Analysis, Modelling and the Variable selection methods to evaluate how good our model is before and after selecting best features from the raw data using Exclusive Variable Selection algorithm. Statistical analysis has also been performed in order to clean the data and extract some insights which helped us to make a better model.
 
 # _**Base Paper**_
